@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 
-pin = 7
+pin = 29
 
 def led_off():
     print("Apagando...")
